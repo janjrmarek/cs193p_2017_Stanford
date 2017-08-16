@@ -4,8 +4,6 @@
 
 This repo contains my lecture notes and projects from Paul Hegarty's classic [CS 193p iPhone Application Development course](http://web.stanford.edu/class/cs193p/cgi-bin/drupal/) offered by The School of Engineering at Stanford.
 
-<img src="https://raw.githubusercontent.com/duliodenis/cs193p-Winter-2017/master/art/cs193p.jpg" width="200px" height="200px" />
-
 This course is described as being updated for iOS 10 and Swift 3, Tools, and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK. The course covers user interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, the Swift programming language. Other topics include: animation, mobile device power management, multi-threading, networking and performance considerations.
 
 ## Lectures
