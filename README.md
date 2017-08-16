@@ -47,7 +47,7 @@ PS  | Name
 
 ## My Assignment Solutions
 
-PS  | Name
+AS  | Name
 | ------------- | -------------
 | 1. | [Assignment 1: Calculator]
 | 2. | [Assignment 2: Calculator Brain]
