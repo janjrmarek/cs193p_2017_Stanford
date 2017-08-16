@@ -8,7 +8,7 @@ This course is described as being updated for iOS 10 and Swift 3, Tools, and API
 
 ## Lectures
 Lecture | Slides | Source | Video | Date | My Notes |
-| ------------- | ------------- | ------------- | ------------- | -------------
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
 | 1. | [Course Overview: Intro to iOS, Xcode, and Swift](slides/Lecture%201%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/ilQ-tq772VI?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 9, 2017 | |
 | 2. | [Applying MVC: Calculator Demo Continued](slides/Lecture%202%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/-auG-myu02Q?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 11, 2017 | |
 | 3. | [More Swift & Foundation Framework](slides/Lecture%203%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/4VoSeyy6KRc?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 18, 2017 | |
