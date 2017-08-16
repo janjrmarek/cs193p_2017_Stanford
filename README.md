@@ -7,7 +7,7 @@ This repo contains my lecture notes and projects from Paul Hegarty's classic [CS
 This course is described as being updated for iOS 10 and Swift 3, Tools, and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK. The course covers user interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, the Swift programming language. Other topics include: animation, mobile device power management, multi-threading, networking and performance considerations.
 
 ## Lectures
-Lecture | Slides | Source | Video | Date | My Notes |
+Lecture | Slides | Source | Video | Date Published | My Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
 | 1. | [Course Overview: Intro to iOS, Xcode, and Swift](slides/Lecture%201%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/ilQ-tq772VI?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 9, 2017 | |
 | 2. | [Applying MVC: Calculator Demo Continued](slides/Lecture%202%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/-auG-myu02Q?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 11, 2017 | |
