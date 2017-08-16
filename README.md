@@ -7,25 +7,25 @@ This repo contains my lecture notes and projects from Paul Hegarty's classic [CS
 This course is described as being updated for iOS 10 and Swift 3, Tools, and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK. The course covers user interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, the Swift programming language. Other topics include: animation, mobile device power management, multi-threading, networking and performance considerations.
 
 ## Lectures
-Lecture | Slides | Source | Video | Date
+Lecture | Slides | Source | Video | Date | My Notes
 | ------------- | ------------- | ------------- | ------------- | -------------
-| 1. | [Course Overview: Intro to iOS, Xcode, and Swift](slides/Lecture%201%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/ilQ-tq772VI?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 9, 2017
-| 2. | [Applying MVC: Calculator Demo Continued](slides/Lecture%202%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/-auG-myu02Q?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 11, 2017
-| 3. | [More Swift & Foundation Framework](slides/Lecture%203%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/4VoSeyy6KRc?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 18, 2017
-| 4. | [Custom Views](slides/Lecture%204%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/Lx4Ohhsc3ho?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 23, 2017
-| 5. | [Gestures and Multiple MVCs](slides/Lecture%205%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-5-Demo-Code_FaceIt.pdf) | [![](art/play.png?raw=true)](https://youtu.be/FXinJu_NkWU?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 25, 2017
-| 6. | [Multiple MVCs, View Controller Lifecycle, and Memory Management ](slides/Lecture%206%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-6-Demo-Code_FaceIt.pdf) | [![](art/play.png?raw=true)](https://youtu.be/HQrXM2zUPvY?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 30, 2017
-| 7. | [Error Handling in Swift, Extensions, Protocols, Delegation, and Scroll Views](slides/Lecture%207%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-7-Demo-Code_Cassini.pdf) | [![](art/play.png?raw=true)](https://youtu.be/GIlsl-6TqmM?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 1, 2017
-| 8. | [Multithreading, Text Field, Table View Intro](slides/Lecture%208%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-8-Demo-Code_Cassini.pdf) | [![](art/play.png?raw=true)](https://youtu.be/-h9kbzg3RK8?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 6, 2017
-| 9. | [Table View](slides/Lecture%209%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-9-Demo-Code_Smashtag.pdf) |  [![](art/play.png?raw=true)](https://youtu.be/78LWmmDxr4k?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 8, 2017
-| 10. | [Core Data](slides/Lecture%2010%20Slides.pdf) |  |  [![](art/play.png?raw=true)](https://youtu.be/ssIpdu73p7A?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 13, 2017
-| 11. | Core Data Demo | [![](art/Xcode.png?raw=true)](democode/Lecture-11-Demo-Code_Smashtag.pdf) | [![](art/play.png?raw=true)](https://youtu.be/whF63GTaW1w?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 15, 2017
-| 12. | [Autolayout](slides/Lecture%2012%20Slides.pdf) | | [![](art/play.png?raw=true)](https://youtu.be/UPpl3LV5L8w?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 22, 2017
-| 13. | [Timer / Animation](slides/Lecture%2013%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-13-Demo-Code_FaceIt.pdf) | [![](art/play.png?raw=true)](https://youtu.be/6tdNJwDwFys?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 27, 2017
-| 14. | Dynamic Animation Demos | [![](art/Xcode.png?raw=true)](democode/Lecture-14-Demo-Code_Asteroids.pdf) | [![](art/play.png?raw=true)](https://youtu.be/8RYQ1a_ZDmw?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 1, 2017
-| 15. | [Segues](slides/Lecture%2015%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-15-Demo-Code_FaceIt_Segues.pdf) | [![](art/play.png?raw=true)](https://youtu.be/MJkLuBbkgGc?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 6, 2017
-| 16. | [Alerts, Notifications, Lifecycles, Persistence](slides/Lecture%2016%20Slides.pdf) | | [![](art/play.png?raw=true)](https://youtu.be/hkUeDMW7qX0?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 8, 2017
-| 17. | Accessibility | | [![](art/play.png?raw=true)](https://youtu.be/NOzXRBom7bw?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 13, 2017
+| 1. | [Course Overview: Intro to iOS, Xcode, and Swift](slides/Lecture%201%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/ilQ-tq772VI?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 9, 2017 | |
+| 2. | [Applying MVC: Calculator Demo Continued](slides/Lecture%202%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/-auG-myu02Q?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 11, 2017 | |
+| 3. | [More Swift & Foundation Framework](slides/Lecture%203%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/4VoSeyy6KRc?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 18, 2017 | |
+| 4. | [Custom Views](slides/Lecture%204%20Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/Lx4Ohhsc3ho?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 23, 2017 | |
+| 5. | [Gestures and Multiple MVCs](slides/Lecture%205%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-5-Demo-Code_FaceIt.pdf) | [![](art/play.png?raw=true)](https://youtu.be/FXinJu_NkWU?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 25, 2017 | |
+| 6. | [Multiple MVCs, View Controller Lifecycle, and Memory Management ](slides/Lecture%206%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-6-Demo-Code_FaceIt.pdf) | [![](art/play.png?raw=true)](https://youtu.be/HQrXM2zUPvY?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 30, 2017 | |
+| 7. | [Error Handling in Swift, Extensions, Protocols, Delegation, and Scroll Views](slides/Lecture%207%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-7-Demo-Code_Cassini.pdf) | [![](art/play.png?raw=true)](https://youtu.be/GIlsl-6TqmM?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 1, 2017 | |
+| 8. | [Multithreading, Text Field, Table View Intro](slides/Lecture%208%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-8-Demo-Code_Cassini.pdf) | [![](art/play.png?raw=true)](https://youtu.be/-h9kbzg3RK8?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 6, 2017 | |
+| 9. | [Table View](slides/Lecture%209%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-9-Demo-Code_Smashtag.pdf) |  [![](art/play.png?raw=true)](https://youtu.be/78LWmmDxr4k?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 8, 2017 | |
+| 10. | [Core Data](slides/Lecture%2010%20Slides.pdf) |  |  [![](art/play.png?raw=true)](https://youtu.be/ssIpdu73p7A?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 13, 2017 | |
+| 11. | Core Data Demo | [![](art/Xcode.png?raw=true)](democode/Lecture-11-Demo-Code_Smashtag.pdf) | [![](art/play.png?raw=true)](https://youtu.be/whF63GTaW1w?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 15, 2017 | |
+| 12. | [Autolayout](slides/Lecture%2012%20Slides.pdf) | | [![](art/play.png?raw=true)](https://youtu.be/UPpl3LV5L8w?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 22, 2017 | |
+| 13. | [Timer / Animation](slides/Lecture%2013%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-13-Demo-Code_FaceIt.pdf) | [![](art/play.png?raw=true)](https://youtu.be/6tdNJwDwFys?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 27, 2017 | |
+| 14. | Dynamic Animation Demos | [![](art/Xcode.png?raw=true)](democode/Lecture-14-Demo-Code_Asteroids.pdf) | [![](art/play.png?raw=true)](https://youtu.be/8RYQ1a_ZDmw?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 1, 2017 | |
+| 15. | [Segues](slides/Lecture%2015%20Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-15-Demo-Code_FaceIt_Segues.pdf) | [![](art/play.png?raw=true)](https://youtu.be/MJkLuBbkgGc?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 6, 2017 | |
+| 16. | [Alerts, Notifications, Lifecycles, Persistence](slides/Lecture%2016%20Slides.pdf) | | [![](art/play.png?raw=true)](https://youtu.be/hkUeDMW7qX0?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 8, 2017 | |
+| 17. | Accessibility | | [![](art/play.png?raw=true)](https://youtu.be/NOzXRBom7bw?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 13, 2017 | |
 
 ## Reading Assignments
 
