@@ -45,6 +45,16 @@ PS  | Name
 | 4. | [Assignment 4: Smashtag Mentions](problemsets/Programming_Project_4_Smashtag_Mentions.pdf)
 | 5. | [Assignment 5: Smashtag Mention Popularity](problemsets/Programming_Project_5_Smashtag_Mention_Popularity.pdf)
 
+## My Assignment Solutions
+
+PS  | Name
+| ------------- | -------------
+| 1. | [Assignment 1: Calculator]
+| 2. | [Assignment 2: Calculator Brain]
+| 3. | [Assignment 3: Graphing Calculator]
+| 4. | [Assignment 4: Smashtag Mentions]
+| 5. | [Assignment 5: Smashtag Mention Popularity]
+
 ## Licensing
 My CS193p projects are licensed under [the MIT License](LICENSE).
 
